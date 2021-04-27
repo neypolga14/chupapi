@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chupapi/static/css/main.677c8b66.chunk.css",
+    "main.js": "/chupapi/static/js/main.8dfae060.chunk.js",
+    "main.js.map": "/chupapi/static/js/main.8dfae060.chunk.js.map",
+    "runtime-main.js": "/chupapi/static/js/runtime-main.9487a471.js",
+    "runtime-main.js.map": "/chupapi/static/js/runtime-main.9487a471.js.map",
+    "static/css/2.fe359a49.chunk.css": "/chupapi/static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js": "/chupapi/static/js/2.df928947.chunk.js",
+    "static/js/2.df928947.chunk.js.map": "/chupapi/static/js/2.df928947.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/chupapi/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/chupapi/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/chupapi/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/chupapi/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.677c8b66.chunk.css.map": "/chupapi/static/css/main.677c8b66.chunk.css.map",
+    "static/js/2.df928947.chunk.js.LICENSE.txt": "/chupapi/static/js/2.df928947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chupapi/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9487a471.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js",
+    "static/css/main.677c8b66.chunk.css",
+    "static/js/main.8dfae060.chunk.js"
+  ]
+}
